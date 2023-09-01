@@ -17,7 +17,8 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+![Screenshot (727)](https://github.com/Anuragk-kumar/Todo-List-Using-React/assets/74180720/430809cf-ac8e-4989-a9ff-4317a6d93307)
 
 
 ## Installation
