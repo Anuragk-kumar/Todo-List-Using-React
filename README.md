@@ -12,7 +12,7 @@ This is a simple Todo List web application built using React. It allows users to
 
 ## Demo
 
-Insert gif or link to demo
+https://todo-list-using-react-app.netlify.app/
 
 
 ## Screenshots
